@@ -1,6 +1,6 @@
 {
   "name": "decanat-url",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "URL parser utility.",
   "main": "index.js",
   "browser": "lib/url.js",
